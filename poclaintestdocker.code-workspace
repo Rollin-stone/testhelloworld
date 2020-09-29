@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"azure-iot-edge.defaultPlatform": {
+			"platform": "arm32v7",
+			"alias": null
+		}
+	}
+}
